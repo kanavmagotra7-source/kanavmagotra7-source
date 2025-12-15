@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanav Magotra</h1>
+
 
 ---
 
