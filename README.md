@@ -2,12 +2,14 @@
 
 <p>
   <a href="https://www.instagram.com/definitelynotasloth.2006/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kanav-magotra-779766375/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
   </a>
 </p>
+
 
 
 
