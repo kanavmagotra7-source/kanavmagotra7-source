@@ -27,8 +27,9 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanavmagotra7-source&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanavmagotra7-source&theme=tokyonight&utcOffset=5.5" />
 </p>
+
 
 ---
 
