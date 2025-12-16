@@ -2,13 +2,14 @@
 
 <p align="center">
   <a href="https://www.instagram.com/definitelynotasloth.2006/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kanav-magotra-779766375/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" />
   </a>
-</p> 
+</p>
+
 
 ---
 
