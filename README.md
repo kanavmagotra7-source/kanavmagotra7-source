@@ -9,23 +9,20 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" height="40" />
   </a>
 </p>
-----
 
+
+<h2 align="center">🎧 Theme Song</h2>
 
 <h2 align="center">🎧 Theme Song</h2>
 
 <p align="center" style="line-height:1.8;">
   <span style="font-size:16px; font-weight:500;">
-    What Did I Miss? — Drake
+    Drugs You Should Try It — Travis Scott
   </span>
   <br/>
   <span style="font-size:14px;">
-    <a href="https://youtu.be/VIDEO_ID?t=111" target="_blank">
-      ▶️ play from 1:51
-    </a>
-    &nbsp;•&nbsp;
-    <a href="https://open.spotify.com/track/CORRECT_TRACK_ID" target="_blank">
-      Spotify
+    <a href="https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63" target="_blank">
+      ▶️ play on Spotify
     </a>
   </span>
 </p>
