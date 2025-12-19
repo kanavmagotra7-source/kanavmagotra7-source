@@ -72,6 +72,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+
 <h2 align="center">🎧 Theme Song</h2>
 
 <p align="center" style="line-height:1.8;">
@@ -79,11 +80,22 @@
     Drugs You Should Try It — Travis Scott
   </span>
   <br/>
-  <span style="font-size:14px;">
-    <a href="https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r?si=a8fd493b5d184b84" target="_blank">
-      ▶️ play on Spotify
-    </a>
-  </span>
+  <a href="https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r?si=a8fd493b5d184b84" target="_blank">
+    ▶️ play on Spotify
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r?si=a8fd493b5d184b84" target="_blank">
+    <img
+      src="https://cdn-images.dzcdn.net/images/cover/b8be81921aa5990f1cd3b7499d4d6501/1900x1900-000000-80-0-0.jpg"
+      alt="Drugs You Should Try It — Travis Scott"
+      height="150"
+      style="transition: transform .25s ease; border-radius: 8px;"
+      onmouseover="this.style.transform='scale(1.08)';"
+      onmouseout="this.style.transform='scale(1)';"
+    />
+  </a>
 </p>
 
 
