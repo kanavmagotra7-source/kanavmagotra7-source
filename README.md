@@ -77,23 +77,25 @@
 
 <p align="center" style="line-height:1.8;">
   <span style="font-size:16px; font-weight:500;">
-    Drugs You Should Try It — Travis Scott
+    Passionfruit — Drake
   </span>
   <br/>
-  <a href="https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r?si=a8fd493b5d184b84" target="_blank">
-    ▶️ play on Spotify
-  </a>
+  <span style="font-size:14px;">
+    <a href="https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz" target="_blank">
+      ▶️ play on Spotify
+    </a>
+  </span>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r?si=a8fd493b5d184b84" target="_blank">
+  <a href="https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz" target="_blank">
     <img
       src="https://cdn-images.dzcdn.net/images/cover/b8be81921aa5990f1cd3b7499d4d6501/1900x1900-000000-80-0-0.jpg"
-      alt="Drugs You Should Try It — Travis Scott"
+      alt="Passionfruit — Drake"
       height="150"
-      style="transition: transform .25s ease; border-radius: 8px;"
-      onmouseover="this.style.transform='scale(1.08)';"
-      onmouseout="this.style.transform='scale(1)';"
+      style="transition: transform .25s ease, box-shadow .25s ease; border-radius: 8px;"
+      onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0px 8px 20px rgba(0,0,0,0.4)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
     />
   </a>
 </p>
