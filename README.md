@@ -90,7 +90,7 @@
 <p align="center">
   <a href="https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz" target="_blank">
     <img
-      src="https://cdn-images.dzcdn.net/images/cover/b8be81921aa5990f1cd3b7499d4d6501/1900x1900-000000-80-0-0.jpg"
+      src="https://images.genius.com/9cd6b1a052627267ca02fca0a8eebfe6.252x252x1.png"
       alt="Passionfruit — Drake"
       height="150"
       style="transition: transform .25s ease, box-shadow .25s ease; border-radius: 8px;"
