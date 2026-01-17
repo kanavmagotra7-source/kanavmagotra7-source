@@ -73,34 +73,6 @@
 </p>
 
 
-<h2 align="center">🎧 Theme Song</h2>
-
-<p align="center" style="line-height:1.8;">
-  <span style="font-size:16px; font-weight:500;">
-    Passionfruit — Drake
-  </span>
-  <br/>
-  <span style="font-size:14px;">
-    <a href="https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz" target="_blank">
-      ▶️ play on Spotify
-    </a>
-  </span>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz" target="_blank">
-    <img
-      src="https://images.genius.com/9cd6b1a052627267ca02fca0a8eebfe6.252x252x1.png"
-      alt="Passionfruit — Drake"
-      height="150"
-      style="transition: transform .25s ease, box-shadow .25s ease; border-radius: 8px;"
-      onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0px 8px 20px rgba(0,0,0,0.4)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
-    />
-  </a>
-</p>
-
-
 
 <!-- Snake at bottom -->
 <p align="center">
